@@ -22,4 +22,4 @@ server.on("upgrade", (request, socket, head) => {
 
 setTimeout(() => {
     console.clear();
-}, 60 * 1000); // 60000 milliseconds = 60 seconds
+}, 60 * 1000); 
